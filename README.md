@@ -2,13 +2,6 @@
    <h3 align="left">¡Hey 👋! Soy Van</h3>
 </p>
 
-- 🔭 I’m currently working on Walmart Chile
-- 🌱 I’m currently learning Go!
-- 👯 I’m looking to collaborate on Javascript, Go! or GCP projects
-- 💬 Ask me about whatever you want
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I have three dogs 
-
 <!--
 **VanessaPellegrini/vanessapellegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
