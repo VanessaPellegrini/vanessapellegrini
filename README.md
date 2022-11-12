@@ -35,5 +35,5 @@
 <br/>
 <br/>
 <div align="center">
-   ![gopher unicorn](./gopher-unicorn.png)
+   <img width="600" src="./gopher-unicorn.png" />
 </div>
