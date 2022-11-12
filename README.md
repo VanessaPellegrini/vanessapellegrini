@@ -32,7 +32,8 @@
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=vanessapellegrini&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
    <img width="400" src="https://streak-stats.demolab.com?user=vanessapellegrini&theme=tokyonight" />
 </div>
-
+<br/>
+<br/>
 
    ![gopher unicorn](./gopher-unicorn.png)
    
