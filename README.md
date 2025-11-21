@@ -1,5 +1,5 @@
 <div align="center">
-   # Software Developer, curious and a fan of golang!
+   # Software Developer
 </div>
 
 
