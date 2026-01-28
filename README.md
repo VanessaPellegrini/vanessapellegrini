@@ -1,55 +1,89 @@
-<div align="center">
-   # Software Developer
-</div>
+# Hi, I'm Van 👋
+
+📍 **Santiago, Chile** | **Software Engineer | AI Agents · System Design**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+> Senior Fullstack Engineer focused on **search, system design, and scalable platforms**. I build reliable systems, migrate legacy tech safely, and deliver measurable improvements in performance and observability.
+
+## Current Projects
+
+- **[moltbot_hardened](https://github.com/VanessaPellegrini/moltbot_hardened)** — Security‑first reference architecture for running local AI agents safely.
+- **[ai-orchestrator](https://github.com/VanessaPellegrini/ai-orchestrator)** — Orchestration layer for AI agents and workflows.
+- **home-hub** (private) — Home automation hub and internal tooling.
+- **clubrary** (private) — Private project in active development.
+
+## Past Experience Highlights
+
+- **Search & Platform Engineering** — Migrated legacy search to modern stacks (Go + Algolia) and improved relevance.
+- **System Design & Reliability** — Built disaster recovery plans, observability (Dynatrace, Grafana), and infra modernization.
+- **Fullstack Delivery** — Shipped React + Node.js apps with backend services in Go/Java.
+
+## Experience (Highlights)
+
+**Walmart Chile — Software Engineer (May 2021 – Nov 2025)**
+- Migrated legacy search to unified platform using **Go + Algolia**.
+- Improved relevance, synonym handling, and performance for search results.
+- Migrated legacy services from **JavaScript → Java 8** and modernized data layers.
+- Built observability and resilience (Dynatrace, Grafana, Kubernetes).
+- Led infra migration and DR planning for search platform.
+- Migrated secrets from **Vault → Akeyless**.
+
+**Telefónica — Software Developer (Sep 2017 – May 2021)**
+- Built web platforms with **Angular/TypeScript/Node.js** and **GCP**.
+- Maintained and optimized mobile/web systems, logs, and databases.
+- Trained teams on **Clean Architecture** and **Clean Code**.
+
+## Core Skills
+
+**Languages:** Go, Java, TypeScript, JavaScript, Python
+
+**Backend:** Node.js, Spring Boot, Express, NestJS
+
+**Frontend:** React, Angular
+
+**Cloud & Infra:** Kubernetes, Docker, Azure, GCP, AWS
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Oracle, AzureSQL
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/VanessaPellegrini)
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-vanessapellegrini%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vanessapellegrini@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanessa%20pellegrini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessapellegrini)
+[![GitHub](https://img.shields.io/badge/GitHub-VanessaPellegrini-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VanessaPellegrini)
+[![X](https://img.shields.io/badge/X-@VannPellegrini-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/VannPellegrini)
+
+---
+
+### Philosophy
+
+> Clarity scales better than speed.  
+> I build systems to think better and tools to share.  
+> Currently having fun building with AI as a hobby.
 
 
-<div align="center">
-   
-   ## Technologies
-   ###### *That I like and enjoy*
-   <br/>
-   
-   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<br/>
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-<br/>
-   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-   ![Hono](https://img.shields.io/badge/Hono-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white)
-   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-   ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-   <br/>
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-   <br/>
-   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
- <br/>
-   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- <br/>
-   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-   ![CI/CD](https://img.shields.io/badge/CI/CD-0A0FFF?style=for-the-badge&logo=githubactions&logoColor=white)
- <br/>
-   ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- <br/>
-   ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=codeium&logoColor=white)
-   ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-   ![Windsurf](https://img.shields.io/badge/Windsurf-005EFF?style=for-the-badge&logo=googlechrome&logoColor=white)
-   ![Lovable](https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logo=heart&logoColor=white)
-   ![MCP](https://img.shields.io/badge/MCP-FF3E00?style=for-the-badge&logo=databricks&logoColor=white)
 
+If you’re building search or platform systems and want a senior engineer who loves reliability and clean architecture, let’s connect.
 
+---
 
+<details>
+<summary>Random Facts</summary>
 
+- Completing my list of 100 analog hobbies.
+- Photography and color hunting.
+- Gym to release stress.
 
-</div>
+</details>
