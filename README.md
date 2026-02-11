@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-- **[moltbot_hardened](https://github.com/VanessaPellegrini/moltbot_hardened)** — Security‑first reference architecture for running local AI agents safely.
+- **[claw-shield](https://github.com/VanessaPellegrini/moltbot_hardened)** — Security‑first reference architecture for running local AI agents safely.
 - **[ai-orchestrator](https://github.com/VanessaPellegrini/ai-orchestrator)** — Orchestration layer for AI agents and workflows.
 - **home-hub** (private) — Home automation hub and internal tooling.
 - **clubrary** (private) — Private project in active development.
