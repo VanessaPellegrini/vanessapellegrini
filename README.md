@@ -2,79 +2,59 @@
 
 📍 **Santiago, Chile** | **Software Engineer | AI Agents · System Design**
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-> Senior Fullstack Engineer focused on **search, system design, and scalable platforms**. I build reliable systems, migrate legacy tech safely, and deliver measurable improvements in performance and observability.
+> Fullstack Engineer focused on **AI-driven systems, platform engineering, and scalable architectures**. I build reliable systems, integrate AI into operational workflows, and deliver measurable improvements in performance and observability.
 
 ## Current Projects
 
-- **[claw-shield](https://github.com/VanessaPellegrini/moltbot_hardened)** — Security‑first reference architecture for running local AI agents safely.
-- **[ai-orchestrator](https://github.com/VanessaPellegrini/ai-orchestrator)** — Orchestration layer for AI agents and workflows.
-- **home-hub** (private) — Home automation hub and internal tooling.
-- **clubrary** (private) — Private project in active development.
+- **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
+- **[PoliCheck](https://github.com/VanessaPellegrini/policheck)** — Chilean political data API. Candidates, analytics, and public source scraping. Built with Hono + TypeScript + PostgreSQL.
+- **[Home Hub](https://github.com/VanessaPellegrini/home-hub)** — Smart dashboard for home management. Track expenses, services, subscriptions, inventory, and spending trends.
+- **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
+- **[claw-shield](https://github.com/VanessaPellegrini/claw-shield)** — Security-first reference architecture for running local AI agents safely on macOS.
 
-## Past Experience Highlights
+## Experience
 
-- **Search & Platform Engineering** — Migrated legacy search to modern stacks (Go + Algolia) and improved relevance.
-- **System Design & Reliability** — Built disaster recovery plans, observability (Dynatrace, Grafana), and infra modernization.
-- **Fullstack Delivery** — Shipped React + Node.js apps with backend services in Go/Java.
+**Walmart Chile — Software Engineer (2021 – 2025)**
+- Migrated legacy search to unified platform using **Go + Algolia**
+- Built Inventory Management System & Promise Engine
+- Modernized services from **JavaScript → Java 8**
+- Observability and resilience with **Dynatrace, Grafana, Kubernetes**
+- Migrated secrets from **Vault → Akeyless**
 
-## Experience (Highlights)
-
-**Walmart Chile — Software Engineer (May 2021 – Nov 2025)**
-- Migrated legacy search to unified platform using **Go + Algolia**.
-- Improved relevance, synonym handling, and performance for search results.
-- Migrated legacy services from **JavaScript → Java 8** and modernized data layers.
-- Built observability and resilience (Dynatrace, Grafana, Kubernetes).
-- Led infra migration and DR planning for search platform.
-- Migrated secrets from **Vault → Akeyless**.
-
-**Telefónica — Software Developer (Sep 2017 – May 2021)**
-- Built web platforms with **Angular/TypeScript/Node.js** and **GCP**.
-- Maintained and optimized mobile/web systems, logs, and databases.
-- Trained teams on **Clean Architecture** and **Clean Code**.
+**Telefónica — Software Developer (2017 – 2021)**
+- Built web platforms with **Angular/TypeScript/Node.js** and **GCP**
+- Mobile App Mi Movistar (Flutter)
+- Trained teams on **Clean Architecture** and **Clean Code**
 
 ## Core Skills
 
-**Languages:** Go, Java, TypeScript, JavaScript, Python
+**Languages:** TypeScript, JavaScript, Go, Java, Python
 
-**Backend:** Node.js, Spring Boot, Express, NestJS
+**Backend:** NestJS, Node.js, Spring Boot, Hono
 
-**Frontend:** React, Angular
+**Frontend:** React, Angular, Next.js
 
-**Cloud & Infra:** Kubernetes, Docker, Azure, GCP, AWS
+**Cloud & Infra:** Kubernetes, Docker, GCP, Azure
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Oracle, AzureSQL
+**Databases:** PostgreSQL, MongoDB, Redis, MariaDB
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/VanessaPellegrini)
+**AI & Tools:** OpenAI, LLMs, Agent patterns, Kafka, Algolia, Dynatrace, Grafana
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-vanessapellegrini%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vanessapellegrini@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanessa%20pellegrini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessapellegrini)
+[![Email](https://img.shields.io/badge/Email-pellegrini.vanessa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pellegrini.vanessa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Pellegrini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessapellegrini)
 [![GitHub](https://img.shields.io/badge/GitHub-VanessaPellegrini-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VanessaPellegrini)
-[![X](https://img.shields.io/badge/X-@VannPellegrini-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/VannPellegrini)
-
----
-
-### Philosophy
-
-> Clarity scales better than speed.  
-> I build systems to think better and tools to share.  
-> Currently having fun building with AI as a hobby.
-
-
-
-If you’re building search or platform systems and want a senior engineer who loves reliability and clean architecture, let’s connect.
 
 ---
 
