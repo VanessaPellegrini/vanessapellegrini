@@ -14,6 +14,18 @@
 
 > Fullstack Engineer focused on **AI-driven systems, platform engineering, and scalable architectures**. I build reliable systems, integrate AI into operational workflows, and deliver measurable improvements in performance and observability.
 
+## Agentic Workflow
+
+I keep my development stack small, TUI-friendly, and focused on agentic workflows. Lately I am writing less glue code by hand and leaning more on structured specs, review loops, and tools like [Hex](https://hex.tech/) when they help me think faster.
+
+- **LLMs:** [GPT](https://openai.com/) and [GLM](https://z.ai/) as my main model families.
+- **Agent harnesses:** [Codex](https://openai.com/codex) and [OpenCode](https://opencode.ai/) for repo exploration, implementation, reviews, and verification.
+- **Terminal:** [Ghostty](https://ghostty.org/) with TUI-first tools and local scripts.
+- **Editor:** [Visual Studio Code](https://code.visualstudio.com/) for code review, navigation, and focused edits.
+- **Production:** [Railway](https://railway.com/) for shipping apps and services quickly.
+- **Workflow frameworks:** [Spec Kit](https://github.com/github/spec-kit) for spec-driven development and [Get Shit Done](https://github.com/gsd-build/get-shit-done) for context engineering and execution flow.
+- **Most used skills:** `vercel-react-best-practices` and `frontend-design`.
+
 ## Current Projects
 
 - **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
@@ -36,7 +48,10 @@
 - Mobile App Mi Movistar (Flutter)
 - Trained teams on **Clean Architecture** and **Clean Code**
 
-## Core Skills
+<details>
+<summary>Core Skills & Current Stack</summary>
+
+### Core Skills
 
 **Languages:** TypeScript, JavaScript, Go, Java, Python
 
@@ -50,11 +65,28 @@
 
 **AI & Tools:** OpenAI, LLMs, Agent patterns, Kafka, Algolia, Dynatrace, Grafana
 
+### Current Development Stack
+
+**Agentic development:** Codex, Claude, prompt notes, review loops
+
+**Daily tools:** Git, terminal, VS Code/Cursor, local scripts
+
+**Focus:** minimal tooling, explicit context, safe iteration, measurable improvements
+
+</details>
+
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-pellegrini.vanessa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pellegrini.vanessa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Pellegrini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessapellegrini)
 [![GitHub](https://img.shields.io/badge/GitHub-VanessaPellegrini-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VanessaPellegrini)
+
+---
+
+### Philosophy
+
+> Communication is the core skill of this moment.  
+> A minimal workflow keeps the signal high, the context clear, and the work moving.
 
 ---
 
