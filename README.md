@@ -75,12 +75,6 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 
 </details>
 
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-pellegrini.vanessa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pellegrini.vanessa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Pellegrini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessapellegrini)
-[![GitHub](https://img.shields.io/badge/GitHub-VanessaPellegrini-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VanessaPellegrini)
-
 ---
 
 ### Philosophy
@@ -89,6 +83,11 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 > A minimal workflow keeps the signal high, the context clear, and the work moving.
 
 ---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Pellegrini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessapellegrini)
+[![GitHub](https://img.shields.io/badge/GitHub-VanessaPellegrini-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VanessaPellegrini)
 
 <details>
 <summary>Random Facts</summary>
