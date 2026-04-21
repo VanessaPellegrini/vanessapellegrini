@@ -16,7 +16,7 @@
 
 ## Agentic Workflow
 
-I keep my development stack small, TUI-friendly, and focused on agentic workflows. Lately I am writing less glue code by hand and leaning more on structured specs, review loops, and tools like [Hex](https://hex.tech/) when they help me think faster.
+I keep my development stack small, TUI-friendly, and focused on agentic workflows. Lately I am writing less glue code by hand and leaning more on structured specs, review loops, and tools like [Hex](https://github.com/kitlangton/Hex) when they help me think faster.
 
 - **LLMs:** [GPT](https://openai.com/) and [GLM](https://z.ai/) as my main model families.
 - **Agent harnesses:** [Codex](https://openai.com/codex) and [OpenCode](https://opencode.ai/) for repo exploration, implementation, reviews, and verification.
