@@ -32,7 +32,6 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 - **[PoliCheck](https://github.com/VanessaPellegrini/policheck)** — Chilean political data API. Candidates, analytics, and public source scraping. Built with Hono + TypeScript + PostgreSQL.
 - **[Home Hub](https://github.com/VanessaPellegrini/home-hub)** — Smart dashboard for home management. Track expenses, services, subscriptions, inventory, and spending trends.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
-- **[claw-shield](https://github.com/VanessaPellegrini/claw-shield)** — Security-first reference architecture for running local AI agents safely on macOS.
 
 ## Experience
 
