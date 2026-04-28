@@ -29,8 +29,6 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 ## Current Projects
 
 - **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
-- **[PoliCheck](https://github.com/VanessaPellegrini/policheck)** — Chilean political data API. Candidates, analytics, and public source scraping. Built with Hono + TypeScript + PostgreSQL.
-- **[Home Hub](https://github.com/VanessaPellegrini/home-hub)** — Smart dashboard for home management. Track expenses, services, subscriptions, inventory, and spending trends.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
 
 ## Experience
