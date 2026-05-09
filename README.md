@@ -34,6 +34,7 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
 - **[Club de Barrio](https://github.com/VanessaPellegrini/club-f-dashboard)** — Dashboard fullstack para clubes de fútbol.
 - **[Van's Office](https://github.com/VanessaPellegrini/vans-office)** — Personal CLI workflow toolkit.
+- **[Smart Summarize](https://github.com/Agents4Life/smart-summarize)** — 9 evidence-based summarization methods for AI agents (Feynman, SQ3R, Cornell, Adler, Concept Map, Spaced Repetition, and more). Designed for book digestion and deep learning. Compatible with OpenCode, Claude Code, and any SKILL.md-based agent.
 
 ## Experience
 
