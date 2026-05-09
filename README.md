@@ -33,7 +33,6 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 - **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
 - **[Club de Barrio](https://github.com/VanessaPellegrini/club-f-dashboard)** — Dashboard fullstack para clubes de fútbol.
-- **[Career Ops](https://github.com/VanessaPellegrini/career-ops)** — Pipeline de búsqueda laboral con CV automation.
 - **[Van's Office](https://github.com/VanessaPellegrini/vans-office)** — Personal CLI workflow toolkit.
 
 ## Experience
