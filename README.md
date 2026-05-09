@@ -22,14 +22,19 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 - **Agent harnesses:** [Codex](https://openai.com/codex) and [OpenCode](https://opencode.ai/) for repo exploration, implementation, reviews, and verification.
 - **Terminal:** [Ghostty](https://ghostty.org/) with TUI-first tools and local scripts.
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/) for code review, navigation, and focused edits.
-- **Production:** [Railway](https://railway.com/) for shipping apps and services quickly.
-- **Workflow frameworks:** [Spec Kit](https://github.com/github/spec-kit) for spec-driven development and [Get Shit Done](https://github.com/gsd-build/get-shit-done) for context engineering and execution flow.
-- **Most used skills:** `vercel-react-best-practices` and `frontend-design`.
+- **Production:** [Railway](https://railway.com/), [Vercel](https://vercel.com/) and [Supabase](https://supabase.com/) for shipping apps and services quickly.
+- **Workflow frameworks:** [Spec Kit](https://github.com/github/spec-kit) for spec-driven development, [Get Shit Done](https://github.com/gsd-build/get-shit-done) for context engineering and execution flow, and [Skills](https://github.com/mattpocock/skills) for reusable AI skill patterns.
+- **Most used skills:** [`grill-me`](https://github.com/mattpocock/skills), [`to-prd`](https://github.com/mattpocock/skills), [`tdd`](https://github.com/mattpocock/skills), [`improve-codebase-architecture`](https://github.com/mattpocock/skills), `vercel-react-best-practices` and `frontend-design`.
 
 ## Current Projects
 
+- **[Wiki Purim](https://github.com/VanessaPellegrini/wiki-purim)** 📚 — LLM-powered wiki librarian for Obsidian vaults. Qwen + Ollama + TUI. Processes raw notes into structured wiki pages with semantic search and automated linking.
+- **[Mission Control](https://github.com/VanessaPellegrini/mission-control)** — Framework open-source de orquestación de agentes. Spec-driven development with AI-powered agents.
 - **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
+- **[Club de Barrio](https://github.com/VanessaPellegrini/club-f-dashboard)** — Dashboard fullstack para clubes de fútbol.
+- **[Career Ops](https://github.com/VanessaPellegrini/career-ops)** — Pipeline de búsqueda laboral con CV automation.
+- **[Van's Office](https://github.com/VanessaPellegrini/vans-office)** — Personal CLI workflow toolkit.
 
 ## Experience
 
