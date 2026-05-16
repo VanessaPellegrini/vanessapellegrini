@@ -28,7 +28,7 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 
 ## Current Projects
 
-- **[Wiki Purim](https://github.com/VanessaPellegrini/wiki-purim)** 📚 — LLM-powered wiki librarian for Obsidian vaults. Qwen + Ollama + TUI. Processes raw notes into structured wiki pages with semantic search and automated linking.
+- **[Librarian](https://github.com/VanessaPellegrini/wiki-purim)** 📚 — LLM-powered wiki librarian for Obsidian vaults. Qwen + Ollama + TUI. Processes raw notes into structured wiki pages with semantic search and automated linking.
 - **[Mission Control](https://github.com/VanessaPellegrini/mission-control)** — Framework open-source de orquestación de agentes. Spec-driven development with AI-powered agents.
 - **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
