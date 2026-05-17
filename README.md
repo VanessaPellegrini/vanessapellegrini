@@ -26,15 +26,25 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 - **Workflow frameworks:** [Spec Kit](https://github.com/github/spec-kit) for spec-driven development, [Get Shit Done](https://github.com/gsd-build/get-shit-done) for context engineering and execution flow, and [Skills](https://github.com/mattpocock/skills) for reusable AI skill patterns.
 - **Most used skills:** [`grill-me`](https://github.com/mattpocock/skills), [`to-prd`](https://github.com/mattpocock/skills), [`tdd`](https://github.com/mattpocock/skills), [`improve-codebase-architecture`](https://github.com/mattpocock/skills), `vercel-react-best-practices` and `frontend-design`.
 
-## Current Projects
+## Second Brain Ecosystem 🧠
 
-- **[Librarian](https://github.com/VanessaPellegrini/wiki-purim)** 📚 — LLM-powered wiki librarian for Obsidian vaults. Qwen + Ollama + TUI. Processes raw notes into structured wiki pages with semantic search and automated linking.
-- **[Mission Control](https://github.com/VanessaPellegrini/mission-control)** — Framework open-source de orquestación de agentes. Spec-driven development with AI-powered agents.
-- **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events (delivery delays, payment failures, anomalies) with LLMs and executes automated responses.
+> A personal knowledge system that captures, curates, and connects everything I learn — powered by AI agents and Obsidian.
+
+| Project | Description |
+|---------|-------------|
+| **[Second Brain Ecosystem](https://github.com/VanessaPellegrini/second-brain-ecosystem)** | Bilingual guides + templates to set up your own Second Brain from scratch with Obsidian, with an optional AI layer |
+| **[Librarian](https://github.com/Agents4Life/librarian)** | AI agent that maintains my Obsidian wiki — reads raw sources, classifies, deduplicates, and generates curated wiki pages (proposal-first, human-approved) |
+| **[Researcher](https://github.com/Agents4Life/researcher)** | Agentic web search agent (Search-o1 pattern) — finds and synthesizes information missing from my knowledge base |
+| **[Content Toolkit](https://github.com/VanessaPellegrini/content-toolkit)** | Media ingestion tools — YouTube → transcription → smart summary → Obsidian `raw/` |
+| **[Smart Summarize](https://github.com/Agents4Life/smart-summarize)** | 9 evidence-based summarization methods for AI agents (Feynman, SQ3R, Cornell, Adler, and more) |
+
+## Other Projects
+
+- **[Mission Control](https://github.com/VanessaPellegrini/mission-control)** — Open-source agent orchestration framework. Spec-driven development with AI-powered agents.
+- **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events with LLMs and executes automated responses.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
-- **[Club de Barrio](https://github.com/VanessaPellegrini/club-f-dashboard)** — Dashboard fullstack para clubes de fútbol.
+- **[Club de Barrio](https://github.com/VanessaPellegrini/club-f-dashboard)** — Fullstack dashboard para clubes de fútbol.
 - **[Van's Office](https://github.com/VanessaPellegrini/vans-office)** — Personal CLI workflow toolkit.
-- **[Smart Summarize](https://github.com/Agents4Life/smart-summarize)** — 9 evidence-based summarization methods for AI agents (Feynman, SQ3R, Cornell, Adler, Concept Map, Spaced Repetition, and more). Designed for book digestion and deep learning. Compatible with OpenCode, Claude Code, and any SKILL.md-based agent.
 
 ## Experience
 
