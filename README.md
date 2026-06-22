@@ -36,7 +36,6 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 | **[Librarian](https://github.com/Agents4Life/librarian)** | AI agent that maintains my Obsidian wiki — reads raw sources, classifies, deduplicates, and generates curated wiki pages (proposal-first, human-approved) |
 | **[Researcher](https://github.com/Agents4Life/researcher)** | Agentic web search agent (Search-o1 pattern) — finds and synthesizes information missing from my knowledge base |
 | **[Content Toolkit](https://github.com/VanessaPellegrini/content-toolkit)** | Media ingestion tools — YouTube → transcription → smart summary → Obsidian `raw/` |
-| **[Smart Summarize](https://github.com/Agents4Life/smart-summarize)** | 9 evidence-based summarization methods for AI agents (Feynman, SQ3R, Cornell, Adler, and more) |
 
 ## Other Projects
 
