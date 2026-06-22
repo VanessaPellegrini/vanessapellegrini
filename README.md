@@ -40,7 +40,7 @@ I keep my development stack small, TUI-friendly, and focused on agentic workflow
 
 ## Other Projects
 
-- **[Mission Control](https://github.com/VanessaPellegrini/mission-control)** — Open-source agent orchestration framework. Spec-driven development with AI-powered agents.
+- **[Mission Control](https://github.com/VanessaPellegrini/mission-control)** — Agent orchestration framework. Spec-driven development with AI-powered agents.
 - **[SmartOps AI](https://github.com/VanessaPellegrini/smartOps-ai)** — AI Decision & Automation Platform. Analyzes operational events with LLMs and executes automated responses.
 - **[AI Code Guardian](https://github.com/VanessaPellegrini/AI-code-guardian)** — AI-powered linting tool for PRs. Automated code review and validation.
 - **[Club de Barrio](https://github.com/VanessaPellegrini/club-f-dashboard)** — Fullstack dashboard para clubes de fútbol.
